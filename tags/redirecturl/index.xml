@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>redirectUrl on </title>
-    <link>https://rahulguha.github.io/tags/redirecturl/</link>
+    <link>https://rahulguha.github.io/rahul-guha.github.io/tags/redirecturl/</link>
     <description>Recent content in redirectUrl on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/tags/redirecturl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/rahul-guha.github.io/tags/redirecturl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redirect</title>
-      <link>https://rahulguha.github.io/post/redirect/</link>
+      <link>https://rahulguha.github.io/rahul-guha.github.io/post/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/post/redirect/</guid>
+      <guid>https://rahulguha.github.io/rahul-guha.github.io/post/redirect/</guid>
       
         <description>Forwarding to gohugo using redirectUrl
       </description>
