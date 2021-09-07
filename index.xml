@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://rahulguha.github.io/rahul-guha/</link>
+    <link>https://rahulguha.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/rahul-guha/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Series Part 2</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/series-part-2/</link>
+      <link>https://rahulguha.github.io/post/series-part-2/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/series-part-2/</guid>
+      <guid>https://rahulguha.github.io/post/series-part-2/</guid>
       
         <description>&lt;p&gt;In this second part of the series we&amp;rsquo;ll show you where to find the full series&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Series Part 1</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/series-part-1/</link>
+      <link>https://rahulguha.github.io/post/series-part-1/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/series-part-1/</guid>
+      <guid>https://rahulguha.github.io/post/series-part-1/</guid>
       
         <description>&lt;p&gt;In this first part of the series we&amp;rsquo;ll show you how to create a series&lt;/p&gt;</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/redirect/</link>
+      <link>https://rahulguha.github.io/post/redirect/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/redirect/</guid>
+      <guid>https://rahulguha.github.io/post/redirect/</guid>
       
         <description>Forwarding to gohugo using redirectUrl
       </description>
@@ -43,10 +43,10 @@
     
     <item>
       <title>The Figure Shortcode</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/figure-shortcode/</link>
+      <link>https://rahulguha.github.io/post/figure-shortcode/</link>
       <pubDate>Sat, 13 Mar 2021 21:47:41 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/figure-shortcode/</guid>
+      <guid>https://rahulguha.github.io/post/figure-shortcode/</guid>
       
         <description>Hugo has figure shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images.</description>
       
@@ -54,10 +54,10 @@
     
     <item>
       <title></title>
-      <link>https://rahulguha.github.io/rahul-guha/archives/</link>
+      <link>https://rahulguha.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/archives/</guid>
+      <guid>https://rahulguha.github.io/archives/</guid>
       
         <description></description>
       
@@ -65,10 +65,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/markdown-syntax/</link>
+      <link>https://rahulguha.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/markdown-syntax/</guid>
+      <guid>https://rahulguha.github.io/post/markdown-syntax/</guid>
       
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       
@@ -76,10 +76,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/rich-content/</link>
+      <link>https://rahulguha.github.io/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/rich-content/</guid>
+      <guid>https://rahulguha.github.io/post/rich-content/</guid>
       
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
@@ -88,10 +88,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/placeholder-text/</link>
+      <link>https://rahulguha.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/placeholder-text/</guid>
+      <guid>https://rahulguha.github.io/post/placeholder-text/</guid>
       
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
@@ -99,10 +99,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://rahulguha.github.io/rahul-guha/contact/</link>
+      <link>https://rahulguha.github.io/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/contact/</guid>
+      <guid>https://rahulguha.github.io/contact/</guid>
       
         <description></description>
       
@@ -110,10 +110,10 @@
     
     <item>
       <title>Math Typesetting</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/math-typesetting/</link>
+      <link>https://rahulguha.github.io/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/math-typesetting/</guid>
+      <guid>https://rahulguha.github.io/post/math-typesetting/</guid>
       
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
       
@@ -121,10 +121,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/emoji-support/</link>
+      <link>https://rahulguha.github.io/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/emoji-support/</guid>
+      <guid>https://rahulguha.github.io/post/emoji-support/</guid>
       
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       
@@ -132,10 +132,10 @@
     
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://rahulguha.github.io/rahul-guha/post/image-test/</link>
+      <link>https://rahulguha.github.io/post/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/post/image-test/</guid>
+      <guid>https://rahulguha.github.io/post/image-test/</guid>
       
         <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.</description>
       
@@ -143,10 +143,10 @@
     
     <item>
       <title>Whoami</title>
-      <link>https://rahulguha.github.io/rahul-guha/about/</link>
+      <link>https://rahulguha.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/about/</guid>
+      <guid>https://rahulguha.github.io/about/</guid>
       
         <description>I bring an opinionated but balanced leadership of full stack software architecture, delivery excellence and organization change to table.</description>
       
@@ -154,10 +154,10 @@
     
     <item>
       <title></title>
-      <link>https://rahulguha.github.io/rahul-guha/imprint/</link>
+      <link>https://rahulguha.github.io/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/rahul-guha/imprint/</guid>
+      <guid>https://rahulguha.github.io/imprint/</guid>
       
         <description>Legal Disclosure Information in accordance with the applicable law
 Jane Doe</description>
