@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://rahulguha.github.io/categories/</link>
+    <link>https://rahulguha.github.io/rahul-guha-public/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rahulguha.github.io/rahul-guha-public/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://rahulguha.github.io/categories/syntax/</link>
+      <link>https://rahulguha.github.io/rahul-guha-public/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/categories/syntax/</guid>
+      <guid>https://rahulguha.github.io/rahul-guha-public/categories/syntax/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>themes</title>
-      <link>https://rahulguha.github.io/categories/themes/</link>
+      <link>https://rahulguha.github.io/rahul-guha-public/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rahulguha.github.io/categories/themes/</guid>
+      <guid>https://rahulguha.github.io/rahul-guha-public/categories/themes/</guid>
       
         <description></description>
       
